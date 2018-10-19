@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/test01/Test01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test01/mapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wordcount/wordcount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/hadoop" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/resources/hadoop/core-site.xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources/hadoop/hdfs-site.xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources/hadoop/mapred-site.xml" charset="UTF-8" />
-    <file url="PROJECT" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/lib" charset="GBK" />
   </component>
 </project>
