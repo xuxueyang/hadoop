@@ -1,6 +1,8 @@
 package test01;
 
 
+import org.apache.hadoop.mapreduce.Job;
+
 import java.io.IOException;
 
 public class Test01 {
